@@ -91,9 +91,11 @@ Next, Maps are utilized to display churn rate and customer service calls based o
 The churn rate decreases proportionally with the length of customer subscription to Databel. Therefore, Databel needs to enhance its services to maintain long-term relationships with customers.
 
 ![contract_type1](https://github.com/mitaannisa/cutomer-churn-rate/assets/90240765/fe790c90-ef1e-4860-8677-214e5c4ecc37)
+
 The churn rate is also influenced by the contract type, as previously shown, and then combined with the account length.
 
 ![contract_type2](https://github.com/mitaannisa/cutomer-churn-rate/assets/90240765/565a72ef-3f45-49c9-a088-6409d09adfee)
+
 The pie chart here illustrates the influence of payment methods on churn rate. As seen in the pie chart, the paper check payment method has a high churn rate of 43.70%.
 
 ![contract_type3](https://github.com/mitaannisa/cutomer-churn-rate/assets/90240765/1915e2ed-5074-4f2c-a3a9-227877cb58ef)
